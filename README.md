@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" alt="logo" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/699e4762225981.5a89af14d87a9.gif">
+<img align="center" alt="logo" height ="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/699e4762225981.5a89af14d87a9.gif">
 </p>
 <h1 align="center">Hello 👋, I'm Jeff Quan</h1>
 <h3 align="center">A passionate finance and accounting student from Chicago</h3>
