@@ -5,7 +5,7 @@
 <h3 align="center">A passionate finance and accounting student from Chicago</h3>
 <img align="right" alt="Coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-cc7397a5e00c50ce7a35a1f946bb79fb">
 
-- 🔭 I’m currently working on **data analytics**
+- 🔭 I’m currently working on **deep learning and data analytics projects**
 
 - 🌱 I’m currently learning **more about data classification and predictive analysis**
 
